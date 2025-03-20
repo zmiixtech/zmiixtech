@@ -1,0 +1,18 @@
+{
+    "bot-name": "ZMIIX",
+    "description": "ZMIIX أسهل بوت من ناحية كل شيئ...🔥❤🦇",
+    "logo": "https://i.ibb.co/4ZLkz8L1/IMG-20250102-WA0065.jpg",
+    "keywords": ["bot", "whatsapp", "automation", "manumd", "byimaxz"],
+    "documentation-link": "https://manul-ofc-web-tau.vercel.app/",
+    "owner-verification":"zzmix7323@gmail.com",
+  
+    "env": {
+      "SESSION_ID": {
+        "description": "Put your SESSION_ID here. Make sure it starts with Manu-MD or get session id from VIEW DOCUMENTATION BUTTON",
+        "value":"",
+        "required": true
+        
+      }
+    }
+  
+  }

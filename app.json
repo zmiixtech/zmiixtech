@@ -1,0 +1,21 @@
+{
+ "name": "🦇-𝗭𝗠𝗜𝗜𝗫-𝗧𝗘𝗖𝗛-𝗩①beta💗",
+  "description": "Javascript WhatsApp bot made by Manul Official",
+  "logo": "https://i.postimg.cc/hnrKBn3W/472038553-2067545280349862-7506530989208733452-n.jpg",
+  "keywords": ["bot"],
+  "success_url": "/",
+
+    "env": {
+        "SESSION_ID": {
+            "description": "Type the Session-ID you got from pair or scan qr.",
+            "required": true,
+            "value": "put session id here"
+        }
+    },
+    "buildpacks": [
+        {
+            "url": "https://github.com/heroku/heroku-buildpack-nodejs.git"
+        }
+     ],
+  "stack": "heroku-24"
+}
